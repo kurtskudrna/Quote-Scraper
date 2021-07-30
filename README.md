@@ -7,6 +7,7 @@ I felt that this project would be a good intro into beautiful soup, give me more
 
 <b>Built with</b>
 - [Python]
+- [Beautiful Soup]
 
 ## How to use?
 Run the file and guess the author of a certain quote that you are given by the program.
